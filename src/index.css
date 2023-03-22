@@ -1,0 +1,10 @@
+body {
+  width: calc(100% - 50px);
+  min-height: calc(100vh - 50px);
+  margin: 0;
+  padding: 25px;
+  background-color: rgb(30,30,30);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
